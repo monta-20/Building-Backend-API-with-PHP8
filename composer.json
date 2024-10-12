@@ -1,6 +1,6 @@
 {
-    "name": "pierrehenry/api-simple-menu",
-    "description": "A simple RESTful API for a Udemy course",
+    "name": "api-simple-menu",
+    "description": "A simple RESTful API.",
     "autoload": {
         "psr-4": {
             "PH7\\ApiSimpleMenu\\": "src/"
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "Pierre-Henry Soria",
-            "email": "hi@ph7.me"
+            "name": "Montassar Ben Brahim",
+            "email": "montassarbenbrahim29@gmail.com"
         }
     ],
 
